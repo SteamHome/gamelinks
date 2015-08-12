@@ -1,0 +1,43 @@
+{
+  "name": "Counter-Strike: Global Offensive",
+  "links": [
+    {
+      "name": "Counter-Strike.net",
+      "url": "http://blog.counter-strike.net/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/GlobalOffensive",
+      "url": "https://reddit.com/r/globaloffensive",
+      "type": "subreddit"
+    },
+    {
+      "name": "Twitch Streams",
+      "url": "http://www.twitch.tv/directory/game/Counter-Strike%3A%20Global%20Offensive",
+      "type": "twitch"
+    },
+    {
+      "name": "HLTV",
+      "url": "http://hltv.org",
+      "type": "news"
+    },
+    {
+      "name": "ESEA",
+      "url": "https://play.esea.net/",
+      "type": "league"
+    },
+    {
+      "name": "CEVO",
+      "url": "http://cevo.com/hub/csgo/",
+      "type": "league"
+    },
+    {
+      "name": "CS:GO Stats",
+      "url": "http://csgo-stats.com/"
+    },
+    {
+      "name": "CS:GO Stash",
+      "url": "http://csgostash.com"
+    }
+  ]
+}
