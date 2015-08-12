@@ -15,7 +15,7 @@ var jsonLintReporter = function (lint, file) {
 
 gulp.task('minify', function () {
     return gulp.src(['json/*.json'])
-        .pipe(jsonedit({"build":{'number':process.env.CI_BUILD_NUMBER,'hash':process.env.CI_COMMIT_ID}}))
+        .pipe(jsonedit({"build":{'time':(new Date).getTime(),'number':process.env.CI_BUILD_NUMBER,'hash':process.env.CI_COMMIT_ID}}))
         .pipe(jsonminify())
         .pipe(jsonlint())
         .pipe(jsonlint.report(jsonLintReporter))
