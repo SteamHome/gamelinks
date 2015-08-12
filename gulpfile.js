@@ -4,6 +4,7 @@
 var gulp = require('gulp');
 var jsonminify = require('gulp-jsonminify');
 var jsonlint = require('gulp-json-lint');
+var jsonedit = require('gulp-json-editor');
 
 var jsonLintReporter = function (lint, file) {
     console.log(file.path + ': ' + lint.error);
@@ -14,6 +15,7 @@ var jsonLintReporter = function (lint, file) {
 
 gulp.task('minify', function () {
     return gulp.src(['json/*.json'])
+        .pipe(jsonedit({"build":{'number':process.env.CI_BUILD_NUMBER,'hash':process.env.CI_COMMIT_ID}}))
         .pipe(jsonminify())
         .pipe(jsonlint())
         .pipe(jsonlint.report(jsonLintReporter))
