@@ -1,0 +1,35 @@
+{
+  "name": "Grand Theft Auto V",
+  "links": [
+    {
+      "name": "Social Club",
+      "url": "http://socialclub.rockstargames.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/GrandTheftAutoV",
+      "url": "https://www.reddit.com/r/grandtheftautov",
+      "type": "reddit"
+    },
+    {
+      "name": "r/GrandTheftAutov_PC",
+      "url": "https://www.reddit.com/r/grandtheftautov_pc",
+      "type": "reddit"
+    },
+    {
+      "name": "r/GTAOnline",
+      "url": "https://www.reddit.com/r/gtaonline",
+      "type": "reddit"
+    },
+    {
+      "name": "GTA Forums",
+      "url": "http://gtaforums.com/forum/304-pc/",
+      "type": "forums"
+    },
+    {
+      "name": "Wiki",
+      "url": "http://gta.wikia.com/wiki/Main_Page",
+      "type": "wiki"
+    }
+  ]
+}

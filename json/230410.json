@@ -1,0 +1,32 @@
+{
+  "name": "ARK: Survival Evolved",
+  "links": [
+    {
+      "name": "Homepage",
+      "url": "https://warframe.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/Warframe",
+      "url": "https://www.reddit.com/r/warframe",
+      "type": "reddit"
+    },
+    {
+      "name": "Wiki",
+      "url": "http://warframe.wikia.com/",
+      "type": "wiki"
+    },
+    {
+      "name": "Alerts",
+      "url": "http://www.kingtaro.com/warframe/"
+    },
+    {
+      "name": "Warframe Builder",
+      "url": "http://warframe-builder.com/"
+    },
+    {
+      "name": "Warframe Prime",
+      "url": "http://warframeprime.com/"
+    }
+  ]
+}

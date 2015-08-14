@@ -1,0 +1,34 @@
+{
+  "name": "Terraria",
+  "links": [
+    {
+      "name": "Terraria.org",
+      "url": "http://terraria.org/",
+      "type": "homepage"
+    },
+    {
+      "name": "Forums",
+      "url": "http://forums.terraria.org/index.php",
+      "type": "forums"
+    },
+    {
+      "name": "r/Terraria",
+      "url": "https://www.reddit.com/r/terraria",
+      "type": "reddit"
+    },
+    {
+      "name": "Wiki",
+      "url": "http://terraria.gamepedia.com",
+      "type": "wiki"
+    },
+    {
+      "name": "Terraria Online",
+      "url": "http://www.terrariaonline.com/"
+    },
+    {
+      "name": "Wikia",
+      "url": "http://terraria.wikia.com/wiki/Terraria_Wiki",
+      "type": "wiki"
+    }
+  ]
+}

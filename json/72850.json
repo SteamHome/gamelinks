@@ -1,0 +1,35 @@
+{
+  "name": "The Elder Scrolls V: Skyrim",
+  "links": [
+    {
+      "name": "Homepage",
+      "url": "http://www.elderscrolls.com/skyrim",
+      "type": "homepage"
+    },
+    {
+      "name": "r/Skyrim",
+      "url": "https://www.reddit.com/r/skyrim",
+      "type": "reddit"
+    },
+    {
+      "name": "Forums",
+      "url": "http://forums.bethsoft.com/forum/117-v-skyrim/",
+      "type": "forums"
+    },
+    {
+      "name": "UESP",
+      "url": "http://www.uesp.net/wiki/Skyrim:Skyrim",
+      "type": "wiki"
+    },
+    {
+      "name": "Wiki",
+      "url": "http://elderscrolls.wikia.com/wiki/Skyrim",
+      "type": "wiki"
+    },
+    {
+      "name": "Skyrim Nexus",
+      "url": "http://www.nexusmods.com/skyrim/",
+      "type": "mods"
+    }
+  ]
+}

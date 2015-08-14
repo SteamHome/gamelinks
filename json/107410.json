@@ -1,0 +1,33 @@
+{
+  "name": "Arma 3",
+  "links": [
+    {
+      "name": "Homepage",
+      "url": "http://arma3.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/Arma",
+      "url": "https://www.reddit.com/r/arma",
+      "type": "reddit"
+    },
+    {
+      "name": "Dev Hub",
+      "url": "http://dev.arma3.com/"
+    },
+    {
+      "name": "Forums",
+      "url": "https://forums.bistudio.com/index.php",
+      "type": "forums"
+    },
+    {
+      "name": "Wiki",
+      "url": "https://community.bistudio.com/",
+      "type": "wiki"
+    },
+    {
+      "name": "Armaholic",
+      "url": "http://www.armaholic.com/"
+    }
+  ]
+}

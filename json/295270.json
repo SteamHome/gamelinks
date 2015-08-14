@@ -1,0 +1,32 @@
+{
+  "name": "Football Manager 2015",
+  "links": [
+    {
+      "name": "Homepage",
+      "url": "http://www.footballmanager.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "Forums",
+      "url": "http://community.sigames.com/",
+      "type": "forums"
+    },
+    {
+      "name": "r/footballmanagergames",
+      "url": "https://www.reddit.com/r/footballmanagergames/",
+      "type": "reddit"
+    },
+    {
+      "name": "FM Base",
+      "url": "http://www.fm-base.co.uk/forum/"
+    },
+    {
+      "name": "FM Scout",
+      "url": "http://www.fmscout.com/"
+    },
+    {
+      "name": "sortitoutsi",
+      "url": "http://sortitoutsi.net/"
+    }
+  ]
+}

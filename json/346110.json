@@ -1,0 +1,33 @@
+{
+  "name": "ARK: Survival Evolved",
+  "links": [
+    {
+      "name": "Homepage",
+      "url": "http://www.playark.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "Wiki",
+      "url": "http://ark.gamepedia.com",
+      "type": "wiki"
+    },
+    {
+      "name": "r/Playark",
+      "url": "https://www.reddit.com/r/playark",
+      "type": "reddit"
+    },
+    {
+      "name": "Twitch Streams",
+      "url": "http://www.twitch.tv/directory/game/ARK%3A%20Survival%20Evolved",
+      "type": "twitch"
+    },
+    {
+      "name": "ARKaholic",
+      "url": "http://arkaholic.com/"
+    },
+    {
+      "name": "ARK Survival",
+      "url": "http://www.ark-survival.net/en/"
+    }
+  ]
+}

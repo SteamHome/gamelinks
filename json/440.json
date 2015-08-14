@@ -1,0 +1,33 @@
+{
+  "name": "Team Fortress 2",
+  "links": [
+    {
+      "name": "TeamFortress.com",
+      "url": "http://www.teamfortress.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/tf2",
+      "url": "https://reddit.com/r/tf2",
+      "type": "subreddit"
+    },
+    {
+      "name": "Wiki",
+      "url": "https://wiki.teamfortress.com/wiki/Main_Page",
+      "type": "wiki"
+    },
+    {
+      "name": "Twitch Streams",
+      "url": "http://www.twitch.tv/directory/game/Team%20Fortress%202",
+      "type": "twitch"
+    },
+    {
+      "name": "Scrap.TF",
+      "url": "https://scrap.tf/"
+    },
+    {
+      "name": "backpack.tf",
+      "url": "https://backpack.tf/"
+    }
+  ]
+}

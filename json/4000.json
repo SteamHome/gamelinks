@@ -1,0 +1,30 @@
+{
+  "name": "Garry's Mod",
+  "links": [
+    {
+      "name": "Homepage",
+      "url": "http://www.garrysmod.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "Facepunch",
+      "url": "http://facepunch.com/",
+      "type": "forums"
+    },
+    {
+      "name": "r/gmod",
+      "url": "https://www.reddit.com/r/gmod",
+      "type": "reddit"
+    },
+    {
+      "name": "GAMEBANNANA",
+      "url": "http://gmod.gamebanana.com/",
+      "type": "mods"
+    },
+    {
+      "name": "GarrysMods.org",
+      "url": "https://garrysmods.org/",
+      "type": "mods"
+    }
+  ]
+}

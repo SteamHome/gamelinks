@@ -1,0 +1,33 @@
+{
+  "name": "Trove",
+  "links": [
+    {
+      "name": "Homepage",
+      "url": "http://www.trionworlds.com/trove/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/Trove",
+      "url": "https://www.reddit.com/r/trove",
+      "type": "reddit"
+    },
+    {
+      "name": "Forums",
+      "url": "http://forums.trovegame.com/",
+      "type": "forums"
+    },
+    {
+      "name": "Wiki",
+      "url": "http://trove.wikia.com/wiki/Trove_Wiki",
+      "type": "wiki"
+    },
+    {
+      "name": "Trovesaurus",
+      "url": "http://www.trovesaurus.com/"
+    },
+    {
+      "name": "Trove HQ",
+      "url": "http://www.trovehq.com/"
+    }
+  ]
+}

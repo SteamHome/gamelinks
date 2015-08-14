@@ -1,0 +1,32 @@
+{
+  "name": "Clicker Heroes",
+  "links": [
+    {
+      "name": "r/ClickerHeroes",
+      "url": "https://www.reddit.com/r/ClickerHeroes/",
+      "type": "reddit"
+    },
+    {
+      "name": "Wiki",
+      "url": "https://www.reddit.com/r/ClickerHeroes/wiki/index",
+      "type": "wiki"
+    },
+    {
+      "name": "Wikia",
+      "url": "http://clickerheroes.wikia.com/wiki/ClickerHeroes_Wiki",
+      "type": "wiki"
+    },
+    {
+      "name": "Hero Calculator",
+      "url": "http://calc.rbservers.org/CH.htm"
+    },
+    {
+      "name": "Ancient Calculator",
+      "url": "https://hsoptimizer.github.io/ancient/"
+    },
+    {
+      "name": "Gilding Calculator",
+      "url": "http://theriebel.de/gilding/"
+    }
+  ]
+}

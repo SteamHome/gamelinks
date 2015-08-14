@@ -1,0 +1,39 @@
+{
+  "name": "Dota 2",
+  "links": [
+    {
+      "name": "Dota 2 Blog",
+      "url": "http://blog.dota2.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/dota2",
+      "url": "https://reddit.com/r/dota2 ",
+      "type": "subreddit"
+    },
+    {
+      "name": "Twitch Streams",
+      "url": "http://www.twitch.tv/directory/game/Dota%202",
+      "type": "twitch"
+    },
+    {
+      "name": "Gamepedia",
+      "url": "http://dota2.gamepedia.com/",
+      "type": "wiki"
+    },
+    {
+      "name": "DOTAFire",
+      "url": "http://www.dotafire.com/"
+    },
+    {
+      "name": "Gamepedia",
+      "url": "http://starbound.gamepedia.com/Starbound_Wiki",
+      "type": "wiki"
+    },
+    {
+      "name": "Liquipedia",
+      "url": "http://wiki.teamliquid.net/dota2/Main_Page",
+      "type": "wiki"
+    }
+  ]
+}

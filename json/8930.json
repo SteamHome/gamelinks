@@ -1,0 +1,34 @@
+{
+  "name": "Sid Meier's Civilization V",
+  "links": [
+    {
+      "name": "Homepage",
+      "url": "http://www.civilization5.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "Forums",
+      "url": "http://forums.2k.com/forumdisplay.php?74-Civilization-V-General-Discussion",
+      "type": "forums"
+    },
+    {
+      "name": "r/Civ",
+      "url": "https://www.reddit.com/r/civ",
+      "type": "reddit"
+    },
+    {
+      "name": "Wiki",
+      "url": "http://civilization.wikia.com",
+      "type": "wiki"
+    },
+    {
+      "name": "CIVILOPEDIA",
+      "url": "http://www.dndjunkie.com/civilopedia/default.aspx",
+      "type": "wiki"
+    },
+    {
+      "name": "War Academy",
+      "url": "http://forums.civfanatics.com/showthread.php?t=438684"
+    }
+  ]
+}
