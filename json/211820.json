@@ -1,0 +1,35 @@
+{
+  "name": "Starbound",
+  "links": [
+    {
+      "name": "PlayStarbound.com",
+      "url": "http://playstarbound.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/starbound",
+      "url": "https://reddit.com/r/starbound",
+      "type": "subreddit"
+    },
+    {
+      "name": "Forums",
+      "url": "http://community.playstarbound.com/",
+      "type": "forums"
+    },
+    {
+      "name": "Starbounder",
+      "url": "http://starbounder.org/Main_Page",
+      "type": "wiki"
+    },
+    {
+      "name": "Gamepedia",
+      "url": "http://starbound.gamepedia.com/Starbound_Wiki",
+      "type": "wiki"
+    },
+    {
+      "name": "Mod Repo",
+      "url": "http://playstarbound.com/modding/",
+      "type": "mods"
+    }
+  ]
+}
