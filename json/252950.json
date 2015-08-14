@@ -1,0 +1,33 @@
+{
+  "name": "Rocket League",
+  "links": [
+    {
+      "name": "Rocket League Official Site",
+      "url": "http://rocketleague.psyonix.com",
+      "type": "homepage"
+    },
+    {
+      "name": "r/RocketLeague",
+      "url": "https://reddit.com/r/RocketLeague",
+      "type": "subreddit"
+    },
+    {
+      "name": "Twitch Streams",
+      "url": "http://www.twitch.tv/directory/game/Rocket%20League",
+      "type": "twitch"
+    },
+    {
+      "name": "Forums",
+      "url": "http://psyonix.com/forum/viewforum.php?f=32",
+      "type": "forums"
+    },
+    {
+      "name": "Rocket League Garage",
+      "url": "https://rocket-league.com/"
+    },
+    {
+      "name": "Rocket League Central",
+      "url": "http://www.rocketleaguecentral.com/"
+    }
+  ]
+}
