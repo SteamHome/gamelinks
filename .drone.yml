@@ -1,0 +1,12 @@
+build:
+  image: node:5
+  commands:
+    - npm i
+    - npm run build
+
+deploy:
+  rsync:
+    user: gamelinks
+    host: zackboehm.com
+    source: dist/*.json
+    target: /home/gamelinks/public
