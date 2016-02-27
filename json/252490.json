@@ -1,0 +1,48 @@
+{
+  "name": "Rust",
+  "links": [
+    {
+      "name": "PlayRust.com",
+      "url": "https://playrust.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/PlayRust",
+      "url": "https://www.reddit.com/r/playrust",
+      "type": "subreddit"
+    },
+    {
+      "name": "Twitch Streams",
+      "url": "http://www.twitch.tv/directory/game/Rust",
+      "type": "twitch"
+    },
+    {
+      "name": "Facepunch Forums",
+      "url": "https://facepunch.com/forumdisplay.php?f=415",
+      "type": "forums"
+    },
+    {
+      "name": "Rust Map",
+      "url": "http://playrust.io/",
+      "type": "map"
+    },
+    {
+      "name": "Play Rust Wiki",
+      "url": "http://playrustwiki.com/",
+      "type": "wiki"
+    },
+    {
+      "name": "Rust Wikia",
+      "url": "http://rust.wikia.com/wiki/Rust_Wiki",
+      "type": "wiki"
+    },
+    {
+      "name": "Rustafied",
+      "url": "http://www.rustafied.com/"
+    },
+    {
+      "name": "PlayRust HQ",
+      "url": "http://www.playrusthq.com/"
+    }
+  ]
+}
