@@ -1,0 +1,39 @@
+{
+  "name": "Factorio",
+  "links": [
+    {
+      "name": "Factorio.com",
+      "url": "http://www.factorio.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/Factorio",
+      "url": "https://reddit.com/r/factorio",
+      "type": "subreddit"
+    },
+    {
+      "name": "Twitch Streams",
+      "url": "http://www.twitch.tv/directory/game/Factorio",
+      "type": "twitch"
+    },
+    {
+      "name": "Forums",
+      "url": "https://forums.factorio.com/",
+      "type": "forums"
+    },
+    {
+      "name": "Wiki",
+      "url": "https://wiki.factorio.com/",
+      "type": "wiki"
+    }
+    {
+      "name": "Factorio Mods",
+      "url": "http://www.factoriomods.com/",
+      "type": "mods"
+    },
+    {
+      "name": "Factorio Blueprints",
+      "url": "http://factorioblueprints.com/"
+    }
+  ]
+}
