@@ -27,6 +27,10 @@
       "type": "wiki"
     },
     {
+      "name": "Strategy Guide",
+      "url": "http://guide.factorio.com/"
+    },
+    {
       "name": "Factorio Mods",
       "url": "http://www.factoriomods.com/",
       "type": "mods"
