@@ -1,0 +1,35 @@
+{
+  "name": "Miscreated",
+  "links": [
+    {
+      "name": "MiscreatedGame.com",
+      "url": "http://miscreatedgame.com/",
+      "type": "homepage"
+    },
+    {
+      "name": "r/Miscreated",
+      "url": "https://www.reddit.com/r/Miscreated/",
+      "type": "subreddit"
+    },
+    {
+      "name": "Twitch Streams",
+      "url": "https://www.twitch.tv/directory/game/Miscreated",
+      "type": "twitch"
+    },
+    {
+      "name": "Forums",
+      "url": "http://miscreatedgame.com/forums/forum.php",
+      "type": "forums"
+    },
+    {
+      "name": "Miscreated Wikia",
+      "url": "http://miscreated.wikia.com/wiki/Miscreated_Wiki",
+      "type": "wiki"
+    },
+    {
+      "name": "Miscreated Servers",
+      "url": "http://miscreatedgame.com/servers/#/",
+      "type": "servers"
+    }
+  ]
+}
