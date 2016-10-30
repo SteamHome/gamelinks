@@ -6,3 +6,4 @@ Data is stored in `json/appid.json` This appid refers to Steam's id for each gam
 Tests are run for pull requests and verify valid json. On merge, json is minifed and pushed to the gamelinks server.
 
 More info for contributing soon!
+ 
